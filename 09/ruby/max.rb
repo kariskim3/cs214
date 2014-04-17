@@ -4,7 +4,7 @@
 # Completed by: 
 # Date: 
 
-require 'List'
+require './List'
 
 list1 = List.new
 list2 = List.new
